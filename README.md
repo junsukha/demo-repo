@@ -1,4 +1,1 @@
 abc
-test
-
-main
